@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigationGraphCharacter"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/menu_character" />
+    <item
+        android:id="@+id/navigationGraphLocation"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/menu_location" />
+    <item
+        android:id="@+id/navigationGraphEpisode"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/menu_episode" />
+</menu>
